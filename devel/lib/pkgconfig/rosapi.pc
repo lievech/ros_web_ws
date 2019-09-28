@@ -1,0 +1,8 @@
+prefix=/home/lhn/ros_web_ws/devel
+
+Name: rosapi
+Description: Description of rosapi
+Version: 0.11.2
+Cflags: -I/home/lhn/ros_web_ws/devel/include
+Libs: -L/home/lhn/ros_web_ws/devel/lib 
+Requires: message_runtime

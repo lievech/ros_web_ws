@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lhn/ros_web_ws/devel/setup.sh
